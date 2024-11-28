@@ -1,6 +1,6 @@
 # Mikroservis Eureka Server(Discovery Server)
 
-[Github](https://github.com/dccelik/eureka_server)
+[Github](https://github.com/dccelik/Eureka-Server)
 ---
 http://localhost:8761/
 ---
